@@ -1,0 +1,14 @@
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\bin\Debug\net7.0\BetterTaskkill.exe
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\bin\Debug\net7.0\BetterTaskkill.deps.json
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\bin\Debug\net7.0\BetterTaskkill.runtimeconfig.json
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\bin\Debug\net7.0\BetterTaskkill.dll
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\bin\Debug\net7.0\BetterTaskkill.pdb
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.AssemblyInfoInputs.cache
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.AssemblyInfo.cs
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.dll
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\refint\BetterTaskkill.dll
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.pdb
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\BetterTaskkill.genruntimeconfig.cache
+C:\Users\JayC\source\repos\BetterTaskkill\BetterTaskkill\obj\Debug\net7.0\ref\BetterTaskkill.dll
